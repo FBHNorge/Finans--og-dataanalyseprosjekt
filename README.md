@@ -3,7 +3,7 @@
 Et selvstendig dataanalyseprosjekt som analyserer og predikerer månedlig avkastning for seks
 selskaper på Oslo Børs ved hjelp av Python, statistisk modellering og maskinlæring.
 
-**Forfatter:** FB · BSc Markedsføringsledelse & Økonomi (BI) → MSc Business Analytics (NHH, 2026)
+**Forfatter:** FB · BSc Markedsføringsledelse med spesialisering i økonomi (USN) → MSc Business Analytics (NHH, 2026)
 **Periode:** Juni – august 2026
 
 ---
