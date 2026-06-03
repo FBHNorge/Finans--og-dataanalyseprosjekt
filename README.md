@@ -85,7 +85,7 @@ stock_project/
 ├── data/
 │   ├── raw_prices.csv          # Rådata fra Yahoo Finance
 │   └── monthly_returns.csv     # Renset månedlig avkastning
-├── stock_returns_report.xlsx   # Excel-rapport med funn
+├── stock_returns_report.xlsx   # Ikke lastet opp på Github
 └── README.md
 ```
 
